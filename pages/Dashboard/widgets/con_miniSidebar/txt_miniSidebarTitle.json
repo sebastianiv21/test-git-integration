@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 7,
+  "bottomRow": 9,
   "displayName": "Text",
   "dynamicBindingPathList": [
     {
@@ -34,10 +34,10 @@
     "label"
   ],
   "shouldTruncate": false,
-  "text": "Total Order Value",
+  "text": "Total Order",
   "textAlign": "LEFT",
   "textColor": "#fafafa",
-  "topRow": 3,
+  "topRow": 5,
   "truncateButtonColor": "#FFC13D",
   "type": "TEXT_WIDGET",
   "version": 1,
